@@ -1,8 +1,13 @@
 const express = require('express');
+const cors = require('cors');
+
+const router = require('./routes/routes');
 
 const app = express();
+app.use(cors());
+app.use(express());
+app.use(router);
 
-// const porta = process.env.PORT || 3333;
 const porta = 3333;
 
 app.listen(porta, () => {
