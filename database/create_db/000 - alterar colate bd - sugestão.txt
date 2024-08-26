@@ -10,6 +10,6 @@ CREATE DATABASE ewerton_node CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 ALTER DATABASE nomeBanco CHARACTER SET utf8 COLLATE utf8_general_ci; 
 
 servidor: 10.67.22.216
-usuário: us_aula_node
-senha: 123456
-banco: s223_node
+usuário: us_etim_122_g2
+senha: ec0623
+banco: 

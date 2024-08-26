@@ -1,20 +1,20 @@
-CREATE DATABASE bd_aula_node_ewerton; 
+CREATE DATABASE use bd_tcc_etim_122_g2;; 
 
 SHOW DATABASES; 
 
-USE bd_aula_node_ewerton; 
+USE bd_tcc_etim_122_g2;; 
 
 SELECT DATABASE(); 
 
 -- ALTER SCHEMA bd_aula_node_ewerton RENAME TO bd_aula_node; 
 
-DROP DATABASE bd_aula_node; 
+DROP DATABASE  bd_tcc_etim_122_g2;; 
 
-CREATE DATABASE bd_aula_node; 
+CREATE DATABASE bd_tcc_etim_122_g2;; 
 
 SHOW DATABASES; 
 
-USE bd_aula_node;
+USE bd_tcc_etim_122_g2;;
 
 SELECT DATABASE(); 
 
